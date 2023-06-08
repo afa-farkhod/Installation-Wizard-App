@@ -3,7 +3,7 @@ Application is an installation wizard for the JDK (Java Development Kit). It is 
 
 ```
 + DOWNLOAD => jdk-20 installer download is successful
-- INSTALLATION => jdk installation is failing
++ INSTALLATION => jdk installation is failing
 - PATH => setting the environmental path is failing
 ```
 
