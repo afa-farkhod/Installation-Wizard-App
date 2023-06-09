@@ -13,11 +13,11 @@ java --module-path "C:/Program Files/Java/javafx-sdk-20.0.1/lib" --add-modules j
 ```
 ![image](https://github.com/af4092/Installation-Wizard-App/assets/24220136/52ff325d-426d-4f49-85a9-32f7dcedcad9)
 
+----------------------------
+
 - `launch.bat` file should be placed in the same directory as the `*.jar` file. And instead of running jar file launch file can be run
 
 ![image](https://github.com/af4092/Installation-Wizard-App/assets/24220136/42cfd247-b6f5-4991-a1b1-b286d325e72d)
-
-----------------------------
 
 - `launch.bat` script is the  batch script written in the Windows command prompt  sets up the necessary environment variables (JAVA_HOME, PATH, MODULE_PATH, MAIN_CLASS) and then uses the java command to run a Java application with the specified module path, classpath, and main class.
 ```
