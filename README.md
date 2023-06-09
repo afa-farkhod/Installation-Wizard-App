@@ -5,6 +5,7 @@ Application is an installation wizard for the JDK (Java Development Kit). It is 
 - [Package JavaFX applications in IntelliJ IDEA IDE](https://www.jetbrains.com/help/idea/packaging-javafx-applications.html) - package JavaFX application by building the corresponding artifact (a Java archive). For JavaFX applications, IntelliJ IDEA provides a dedicated artifact type: JavaFx Application.
 - [JavaFX application packaging Stackoverflow](https://stackoverflow.com/questions/30145772/what-is-the-best-way-to-deploy-javafx-application-create-jar-and-self-contained/30162808#30162808) - What is the best way to deploy JavaFX application, create JAR and self-contained applications and native installers?
 - [Self-Contained Application Packaging](https://docs.oracle.com/javase/8/docs/technotes/guides/deploy/self-contained-packaging.html#BCGIBBCI) - This topic describes how to generate the package for a self-contained application. A self-contained application contains your Java or JavaFX application and the JRE needed to run the application.
+- [Export JavaFX 11, 15 or 17 projects into an executable jar file with IntelliJ [2022]](https://youtu.be/F8ahBtXkQzU) - YouTube Video shows how to create a jar file from JavaFX 11 or above with IntelliJ IDEA.
 ```
 + DOWNLOAD => jdk-20 installer download is successful
 + INSTALLATION => jdk installation is failing
