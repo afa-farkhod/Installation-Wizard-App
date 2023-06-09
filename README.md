@@ -2,6 +2,7 @@
 Application is an installation wizard for the JDK (Java Development Kit). It is a JavaFX-based GUI application that guides users through the process of downloading and installing the JDK, as well as setting the path environment variable.
 
 - [Oracle official documentation shows the basics of taking JavaFX application from code to deployment](https://docs.oracle.com/javafx/2/deployment/deploy_quick_start.htm) - Starting from JDK 7 update 6, JavaFX applications can be packaged as a platform-specific, self-contained application. These applications include all application resources, the Java and JavaFX runtimes, and a launcher, and they provide the same install and launch experience as native applications for the operating system.
+- [Package JavaFX applications in IntelliJ IDEA IDE](https://www.jetbrains.com/help/idea/packaging-javafx-applications.html) - package JavaFX application by building the corresponding artifact (a Java archive). For JavaFX applications, IntelliJ IDEA provides a dedicated artifact type: JavaFx Application.
 ```
 + DOWNLOAD => jdk-20 installer download is successful
 + INSTALLATION => jdk installation is failing
