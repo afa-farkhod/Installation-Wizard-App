@@ -9,8 +9,8 @@ Application is an installation wizard for the JDK (Java Development Kit). It is 
 - [Export JavaFX 11, 15 or 17 projects into an executable jar file with IntelliJ [2022]](https://youtu.be/F8ahBtXkQzU) - YouTube Video shows how to create a jar file from JavaFX 11 or above with IntelliJ IDEA.
 ```
 + DOWNLOAD => jdk-20 installer download is successful
-+ INSTALLATION => jdk installation is failing
-- PATH => setting the environmental path is failing
++ INSTALLATION => jdk installation is successful
++ PATH => setting the environmental path is successful
 ```
 - When running `jar` application `javafx-sdk-20.0.1` should be also installed in the local environment, after that from the terminal following command is required to start the application:
 ```
