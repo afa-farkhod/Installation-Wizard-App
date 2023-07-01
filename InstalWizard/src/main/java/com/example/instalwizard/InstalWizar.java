@@ -94,10 +94,6 @@ public class InstalWizar extends Application {
             }
         };
 
-
-
-
-
         installationTask.setOnSucceeded(event -> {
             statusLabel.setText("Installation completed!");
             nextButton.setDisable(false);
@@ -131,7 +127,6 @@ public class InstalWizar extends Application {
         }
     }
 
-
     private void downloadFile(String fileUrl, String destinationPath) throws IOException {
         URL url = new URL(fileUrl);
         try(InputStream in = new BufferedInputStream(url.openStream());
@@ -146,5 +141,3 @@ public class InstalWizar extends Application {
 
     public static void main(String[] args) {launch(args);}
 }
-
-
