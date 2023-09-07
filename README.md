@@ -1,4 +1,4 @@
-# Installation-Wizard-App
+# [Installation-Wizard-App](https://github.com/af4092/Installation-Wizard-App/tree/main)
 Application is an installation wizard for the JDK (Java Development Kit). It is a JavaFX-based GUI Windows Desktop Application that guides users through the process of downloading and installing the JDK, as well as setting the path environment variable.
 
 - [Wizard](https://en.wikipedia.org/wiki/Wizard_(software)) - A software wizard or setup assistant is a user interface that leads you through a sequence of small steps, like a dialog box to configure a program for the first time. A complex, rare, or unfamiliar task may be easier with a wizard that breaks the task into simpler pieces. But a wizard may be a barrier to deeper understanding, and a substitute for clearer design.
